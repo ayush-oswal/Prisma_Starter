@@ -13,7 +13,6 @@ Clone this repository to your local machine using Git:
 
 `
 git clone https://github.com/ayush-oswal/Prisma_Starter
-
 `
 
 ### 3. Set up Environment Variables
@@ -30,5 +29,5 @@ npm install
 Start the development server using the following command:
 
 `
-npm run start
+npm run devStart
 `
